@@ -28,7 +28,7 @@ const productSchema = new mongoose.Schema({
         message:'{VALUE} is not supported',
     },
     //enum:['ikea','lidyy','cerassa','marcos']
-  }
+  },
   
 })
 
